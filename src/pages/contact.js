@@ -1,16 +1,15 @@
 import React from 'react'
 
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Layout from '../components/layout'
 
 const ContactPage = () => {
   return (
     <div>
-      <Header />
-      <h1>Contact</h1>
-      <p>This is my contact page.</p>
-      <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">My LinkedIn</a>
-      <Footer />
+      <Layout>
+        <h1>Contact</h1>
+        <p>This is my contact page.</p>
+        <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">My LinkedIn</a>
+      </Layout>
     </div>
   )
 }
