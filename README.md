@@ -2,7 +2,7 @@
 
 React.js & Gatsby & Contentful blog site
 
-![Gatsby Site](https://imgur.com/a/FMThbuO)
+![Gatsby Site](https://i.imgur.com/DyXu9Cf.png)
 
 
 ## Getting Started
